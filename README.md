@@ -1,11 +1,11 @@
 <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width ="100%" height = "250"/>
 <br>
 <div align="center">
-	<img src="https://komarev.com/ghpvc/?username=foyezrabbi" alt="Fozle Rabbi" />
+	<img src="https://komarev.com/ghpvc/?username=fozlerabbit" alt="Fozle Rabbi" />
 	<a href="https://wakatime.com/@b0842085-d6ff-4b6a-bc42-62dd53ffafcd"><img src="https://wakatime.com/badge/user/b0842085-d6ff-4b6a-bc42-62dd53ffafcd.svg" alt="Total time coded since Oct 14 2022" /></a> 
 	<br>
 <!-- download cv button -->
-<a href="https://github.com/foyezrabbi/foyezrabbi/raw/master/files/foyezrabbi.pdf">
+<a href="https://github.com/fozlerabbit/fozlerabbit/raw/master/files/fozlerabbit.pdf">
 <img src="https://img.shields.io/badge/Download%20CV-Fozle%20Rabbi-blue" />
 </a>
  </h4>
@@ -34,10 +34,10 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
-	<a href="https://github.com/foyezrabbi"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://github.com/fozlerabbit"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.youtube.com/channel/UCIFbnPw_X_gdz4ai2U9-TFQ/"><img src="https://img.shields.io/youtube/channel/subscribers/UCIFbnPw_X_gdz4ai2U9-TFQ?style=plastic" alt="youtube"/>
         <a href="https://www.linkedin.com/in/fozlerabbii/"><img alt="LinkedIn" src="https://img.shields.io/badge/fozlerabbii-linkedIn-brightgreen?style=flat-square&logo=linkedin"></a>
-        <a href="https://www.facebook.com/FoyezRabbii/"><img alt="Facebook" src="https://img.shields.io/badge/FoyezRabbii-facebook-blue?style=flat&logo=facebook"></a>
+        <a href="https://www.facebook.com/fozlerabbit.dev/"><img alt="Facebook" src="https://img.shields.io/badge/fozlerabbit.dev-facebook-blue?style=flat&logo=facebook"></a>
         <a href="mailto:infiniterabbiex@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-infiniterabbiex@gmail.com-blue?style=flat-square&logo=gmail"></a>
         <a href="https://www.instagram.com/fozle_rabbi_live/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-fozle_rabbi_live-cyan?style=flat&logo=instagram"></a>
 </p>
@@ -45,8 +45,8 @@
 <hr>
 <p align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=foyezrabbi&show_icons=true&include_all_commits=true&theme=radical" alt="foyezrabbi" width ="100%" height = "200" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foyezrabbi&layout=compact&theme=radical" alt="foyezrabbi" width ="100%" height = "200" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=fozlerabbit&show_icons=true&include_all_commits=true&theme=radical" alt="fozlerabbit" width ="100%" height = "200" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fozlerabbit&layout=compact&theme=radical" alt="fozlerabbit" width ="100%" height = "200" /></p>
 <br>
 
 <hr>
@@ -55,7 +55,7 @@
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=foyezrabbi&layout=compact&theme=algolia" alt="foyezrabbi" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fozlerabbit&layout=compact&theme=algolia" alt="fozlerabbit" /></a> </p>
 
 
 ## 🛠️ My Skills
