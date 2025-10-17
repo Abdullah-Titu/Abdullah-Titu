@@ -6,7 +6,7 @@
 	<br>
 <!-- download cv button -->
 <a href="https://github.com/Abdullah-Titut/Abdullah-Titut/raw/master/files/Abdullah-Titut.pdf">
-<img src="https://img.shields.io/badge/Download%20CV-Fozle%20Rabbi-blue" />
+<img src="https://img.shields.io/badge/Download%20CV-Titu" />
 </a>
  </h4>
 	
@@ -25,11 +25,11 @@
 - 💬 Ask me about ... python
 - 😄 Pronouns: ... He/Him
 - 🕵 I love working with a technically strong team where I can collaborate to solve complex problems
-- 💬 Please feel free to contact me if you need any further information: infiniterabbiex@gmail.com
+- 💬 Please feel free to contact me if you need any further information: titu@gmail.com
 - 📌 Visit my portfolio website: [https://Abdullah-Titu.github.io](https://Abdullah-Titu.github.io)
 
 ---
-[![Code With Rabbi](https://media.discordapp.net/attachments/975282831024615425/1020288403373297664/ezgif-2-edb7f48ccc.gif)](https://www.youtube.com/watch?v=hLnwt8hbMFk "Everything Is AWESOME")
+[![Code With titu](https://media.discordapp.net/attachments/975282831024615425/1020288403373297664/ezgif-2-edb7f48ccc.gif)](https://www.youtube.com/watch?v=hLnwt8hbMFk "Everything Is AWESOME")
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
@@ -38,8 +38,8 @@
 	<a href="https://www.youtube.com/channel/UCIFbnPw_X_gdz4ai2U9-TFQ/"><img src="https://img.shields.io/youtube/channel/subscribers/UCIFbnPw_X_gdz4ai2U9-TFQ?style=plastic" alt="youtube"/>
         <a href="https://www.linkedin.com/in/Abdullah-Titui/"><img alt="LinkedIn" src="https://img.shields.io/badge/Abdullah-Titui-linkedIn-brightgreen?style=flat-square&logo=linkedin"></a>
         <a href="https://www.facebook.com/Abdullah-Titut.dev/"><img alt="Facebook" src="https://img.shields.io/badge/Abdullah-Titut.dev-facebook-blue?style=flat&logo=facebook"></a>
-        <a href="mailto:infiniterabbiex@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-infiniterabbiex@gmail.com-blue?style=flat-square&logo=gmail"></a>
-        <a href="https://www.instagram.com/fozle_rabbi_live/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-fozle_rabbi_live-cyan?style=flat&logo=instagram"></a>
+        <a href="mailto:titu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/titu@gmail.com-blue?style=flat-square&logo=gmail"></a>
+        <a href="https://www.instagram.com/titu/"><img alt="Instagram" src="https://img.shields.io/badge/titu?style=flat&logo=instagram"></a>
 </p>
 
 <hr>
@@ -121,4 +121,4 @@
 </p>
 
 <br/>
-<h>© Copyright 2022 by Foyez Rabbi. All rights reserved.</h>
+<h>© Copyright 2022 by T2. All rights reserved.</h>
