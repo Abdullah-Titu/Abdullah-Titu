@@ -13,13 +13,13 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <a herf="https://www.linkedin.com/in/Abdullah-Titui">Hello There, I'm Abdullah-Titu</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=CSE+Student;Creative+Programmer;Youtuber;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=CubeSat+Developer;Creative+Programmer;Youtuber;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 </div>
 
 
 - 👨‍💻 I'm currently learning Python
-- 🔭 I’m currently working on ... python and js
+- 🔭 I’m currently working on ... STM32 Based Microcontroller 
 - 👯 I’m looking to collaborate on ... Web application development using python
 - 🤔 I’m looking for help with ... advance python
 - 💬 Ask me about ... python
