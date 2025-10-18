@@ -20,12 +20,12 @@
 
 - 👨‍💻 I'm currently learning Python
 - 🔭 I’m currently working on ... STM32 Based Microcontroller 
-- 👯 I’m looking to collaborate on ... Web application development using python
+- 👯 I’m looking to collaborate on ... CubeSat Developement
 - 🤔 I’m looking for help with ... advance python
-- 💬 Ask me about ... python
+- 💬 Ask me about ... STM32
 - 😄 Pronouns: ... He/Him
 - 🕵 I love working with a technically strong team where I can collaborate to solve complex problems
-- 💬 Please feel free to contact me if you need any further information: titu@gmail.com
+- 💬 Please feel free to contact me if you need any further information:abdullahaltitu21@gmail.com
 - 📌 Visit my portfolio website: [https://abdullahtitu.com](https://abdullahtitu.com)
 
 ---
