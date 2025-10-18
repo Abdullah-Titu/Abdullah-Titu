@@ -26,7 +26,7 @@
 - 😄 Pronouns: ... He/Him
 - 🕵 I love working with a technically strong team where I can collaborate to solve complex problems
 - 💬 Please feel free to contact me if you need any further information: titu@gmail.com
-- 📌 Visit my portfolio website: [https://Abdullah-Titu.github.io](https://Abdullah-Titu.github.io)
+- 📌 Visit my portfolio website: [https://abdullahtitu.com](https://abdullahtitu.com)
 
 ---
 [![Code With titu](https://media.discordapp.net/attachments/975282831024615425/1020288403373297664/ezgif-2-edb7f48ccc.gif)](https://www.youtube.com/watch?v=hLnwt8hbMFk "Everything Is AWESOME")
